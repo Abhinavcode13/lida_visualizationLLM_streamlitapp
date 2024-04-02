@@ -1,1 +1,1 @@
-#Lida test project
+Automatic Generation of Visualizations and Infographics with LLMs and Streamlit for your CSV data.
